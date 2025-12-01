@@ -1,0 +1,11 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
